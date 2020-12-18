@@ -17,5 +17,5 @@ Download the source code and open the app in Android Studio and run on Emulator 
 
 ---
 ##### Copyright Details:
-###### Please note that this application source code is written by referring to *ConstraintLayout using the Layout Editor*
+###### Please note that this application source code is written by referring to Google's codelab *ConstraintLayout using the Layout Editor*
 ###### Please refer to thier Copyright License for more details.
